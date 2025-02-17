@@ -14,11 +14,11 @@ The project follows a typical structure for C++ OpenGL applications:
 ComputerGraphicsAssignments/
 │
 ├── freeglut/
-|   ├── bin/                     # Executable files
+│   ├── bin/                     # Executable files
 │   │   ├── x64/                 # Binary files
-│   │   |   └── freeglut.dll     # 32-bit freeglut.dll
+│   │   │   └── freeglut.dll     # 32-bit freeglut.dll
 │   │   └── freeglut.dll         # 64-bit freeglut.dll
-|   └── (placeholder for any custom DLLs)
+│   └── (placeholder for any custom DLLs)
 │
 ├── include/                     # Header files
 │   ├── GL/
@@ -37,7 +37,7 @@ ComputerGraphicsAssignments/
 │
 ├── src/                         # Source code directory
 │   └── main.cpp                 # Main OpenGL application
-|
+│
 ├── AUTHORS                      # Author information
 ├── COPYING                      # License information
 ├── freeglut.dll                 # 32-bit freeglut.dll
