@@ -1,5 +1,5 @@
-# Assignment 1
-## Lecture 2
+# Assignment 3
+## Lecture 5
 
 **- Task 1**
 **Write using GLUT to produce the following then fill in the rectangle with different colors of your choice:**
