@@ -3,7 +3,10 @@
 
 **- Task 1**
 **Write using GLUT to produce the following then fill in the rectangle with different colors of your choice:**
+
+
 ![Image1](../../images/Lec5_Assignment_3_1.jpg)
+
 ![Image2](../../images/Lec5_Assignment_3_2.jpg)
 
 ## Steps to run the code:
