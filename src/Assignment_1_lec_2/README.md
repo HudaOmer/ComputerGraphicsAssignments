@@ -16,8 +16,12 @@ In the terminal run the commands
 cd src\Assignment_1_lec_2
 g++ <file_name> .\src\imports.h -o <file_name> -I".\include" -L".\lib\x64" -lfreeglut -lopengl32 -lglu32
 ./<file_name>
+
 ```
+
 or from the root directory
+
+
 ```bash
 
 make -f Makefile
